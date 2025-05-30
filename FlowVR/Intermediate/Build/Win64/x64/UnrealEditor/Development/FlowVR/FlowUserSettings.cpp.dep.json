@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\plugins\\flowvr\\source\\flowvr\\private\\flowusersettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\intermediate\\build\\win64\\x64\\vr_clearfloweditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\plugins\\flowvr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\flowvr\\definitions.flowvr.h",
+            "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\plugins\\flowvr\\source\\flowvr\\public\\flowusersettings.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gameusersettings.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameusersettings.generated.h",
+            "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\plugins\\flowvr\\source\\flowvr\\public\\flowmodes.h",
+            "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\plugins\\flowvr\\intermediate\\build\\win64\\unrealeditor\\inc\\flowvr\\uht\\flowmodes.generated.h",
+            "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\plugins\\flowvr\\intermediate\\build\\win64\\unrealeditor\\inc\\flowvr\\uht\\flowusersettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

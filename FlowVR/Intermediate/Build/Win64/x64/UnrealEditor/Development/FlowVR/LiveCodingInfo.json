@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FlowVR.cpp.obj": [
+			"FlowModes.gen.cpp.obj",
+			"FlowUserSettings.gen.cpp.obj",
+			"FlowVR.init.gen.cpp.obj",
+			"FlowUserSettings.cpp.obj",
+			"FlowVR.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\plugins\\flowvr\\source\\flowvr\\private\\flowvr.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\intermediate\\build\\win64\\x64\\vr_clearfloweditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\plugins\\flowvr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\flowvr\\definitions.flowvr.h",
+            "c:\\users\\ali-ken roosens\\documents\\unreal projects\\flow_vr_demo\\plugins\\flowvr\\source\\flowvr\\public\\flowvr.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

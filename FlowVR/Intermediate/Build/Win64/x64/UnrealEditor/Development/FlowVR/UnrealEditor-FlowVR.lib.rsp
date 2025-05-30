@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FlowVR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ali-Ken Roosens\Documents\Unreal Projects\flow_vr_demo\Intermediate\Build\Win64\x64\vr_clearflowEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\Ali-Ken Roosens\Documents\Unreal Projects\flow_vr_demo\Plugins\FlowVR\Intermediate\Build\Win64\x64\UnrealEditor\Development\FlowVR\Module.FlowVR.cpp.obj"
+"C:\Users\Ali-Ken Roosens\Documents\Unreal Projects\flow_vr_demo\Plugins\FlowVR\Intermediate\Build\Win64\x64\UnrealEditor\Development\FlowVR\FlowUserSettings.cpp.obj"
+"C:\Users\Ali-Ken Roosens\Documents\Unreal Projects\flow_vr_demo\Plugins\FlowVR\Intermediate\Build\Win64\x64\UnrealEditor\Development\FlowVR\FlowVR.cpp.obj"
+"C:\Users\Ali-Ken Roosens\Documents\Unreal Projects\flow_vr_demo\Plugins\FlowVR\Intermediate\Build\Win64\x64\UnrealEditor\Development\FlowVR\Default.rc2.res"
+/OUT:"C:\Users\Ali-Ken Roosens\Documents\Unreal Projects\flow_vr_demo\Plugins\FlowVR\Intermediate\Build\Win64\x64\UnrealEditor\Development\FlowVR\UnrealEditor-FlowVR.lib"
